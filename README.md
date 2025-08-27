@@ -1,2 +1,2 @@
 # project-demo
-This is my first Gitt Repository.
+This is my first GitHub Repository.
